@@ -14,3 +14,4 @@ A simple desktop application built with Python and Tkinter that allows users to 
 ## Prerequisites
 Ensure the following prerequisites are installed on your system before running the app:
 - Python 3.10.11 
+- Cuda 11.8
